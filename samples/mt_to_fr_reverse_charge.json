@@ -1,0 +1,14 @@
+{
+  "_comment": "Mindee-shaped invoice prediction. Intra-EU B2B (MT -> FR), 0% VAT + reverse charge note (correct).",
+  "supplier_name": "Valletta Software Ltd",
+  "supplier_country": "MT",
+  "customer_name": "Lefebvre Distribution SARL",
+  "customer_country": "FR",
+  "customer_vat_id": "FR40303265045",
+  "locale": { "country": "MT", "currency": "EUR" },
+  "currency": "EUR",
+  "total_net": 10000.00,
+  "total_tax": 0.00,
+  "taxes": [{ "rate": 0.0, "value": 0.00, "base": 10000.00 }],
+  "notes": "Reverse charge — VAT to be accounted for by the recipient under Article 196 of the EU VAT Directive."
+}

@@ -1,0 +1,14 @@
+{
+  "_comment": "Mindee-shaped invoice prediction. Domestic MT supply, 18% VAT (correct).",
+  "supplier_name": "Valletta Software Ltd",
+  "supplier_country": "MT",
+  "customer_name": "Sliema Trading Ltd",
+  "customer_country": "MT",
+  "customer_vat_id": "MT12345678",
+  "locale": { "country": "MT", "currency": "EUR" },
+  "currency": "EUR",
+  "total_net": 10000.00,
+  "total_tax": 1800.00,
+  "taxes": [{ "rate": 18.0, "value": 1800.00, "base": 10000.00 }],
+  "notes": "Payment due within 30 days."
+}

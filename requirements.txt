@@ -1,0 +1,3 @@
+# The demo runs on the Python standard library alone (urllib + json).
+# Only needed for LIVE Mindee extraction from real PDFs/images:
+mindee>=4.0 ; extra == "live"
